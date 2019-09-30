@@ -5,10 +5,20 @@
 # ```
 # # Start with this List
 # list_of_many_numbers = [12, 24, 1, 34, 10, 2, 7]
-# ```
+
 # Example Input/Output if the user enters the number 9:
 # ```
 # The User entered 9
 # 1  2  7 are smaller than 9
 # 12  24  34  10 are larger than 9
 # ```
+userinput= int(input(" Enter a number here: "))# Input from the User
+list_of_many_numbers = [12, 24, 1, 34, 10, 2, 7]
+
+for each in list_of_many_numbers:
+    if each > userinput:
+        print(f'{each} is great than {userinput} ')
+    elif each== userinput:
+        print("This number is present in my array") # Equal case addressed
+    else:
+        print(f'{each} is smaller than {userinput}')

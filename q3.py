@@ -9,3 +9,13 @@
 # ```
 # The newly created list contains:     2  1  4  3  6  5  8  7  10  9
 # ```
+list_of_claim_nums_1 = [2, 4, 6, 8, 10]
+list_of_claim_nums_2 = [1, 3, 5, 7, 9]
+tempArray = []
+
+for x in list_of_claim_nums_1:
+    tempArray.append(x)
+    for y in list_of_claim_nums_2:
+        tempArray.append(y)
+
+print(tempArray)
