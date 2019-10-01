@@ -1,5 +1,5 @@
 # codeAssessment2
-
+#### Final Grade: 10.25 / 12
 ### Instructions
 Answer each question inside of the individual question files. Each file has the question paste inside of it.
 
