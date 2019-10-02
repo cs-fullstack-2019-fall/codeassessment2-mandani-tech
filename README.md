@@ -1,3 +1,16 @@
+
+1 Didnt print in order like example but good and commented
+
+2 Good job. Commented
+
+3 Didn't mix the numbers right. Good start
+
+4 Really nice job. Prints correct result message. Comments. But you did your output in the function.
+
+5 Used the Class name not the instance variable
+
+6 Used the Class name not the instance variable
+
 # codeAssessment2
 #### Final Grade: 10.25 / 12
 ### Instructions
