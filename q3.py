@@ -12,7 +12,8 @@
 list_of_claim_nums_1 = [2, 4, 6, 8, 10]
 list_of_claim_nums_2 = [1, 3, 5, 7, 9]
 tempArray = []
-
+# KEY Didn't mix the numbers right but a good start
+# Try just using one loop and pushing the value at the current index from both arrays into the new one.
 for x in list_of_claim_nums_1:
     tempArray.append(x)
     for y in list_of_claim_nums_2:
