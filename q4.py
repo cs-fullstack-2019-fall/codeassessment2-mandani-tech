@@ -10,7 +10,7 @@
 
 # BIRD is longer than COW
 # ```
-
+# KEY: Achieved result *but* 'DO NOT print the result in the function, print the result using the return value provided by the function. '
 # Function called chk_strings that accepts 2 strings entered by the user and compares them by length
 def compareString() :
     string1=input("Please enter first string: ")
